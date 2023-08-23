@@ -1,2 +1,5 @@
-# forestry-segmentation-2023
-Code for "Use of CNN for geospatial modelling of species structure and taxation characteristics of forests..." paper
+## Code for "Use of CNN for geospatial modelling of species structure and taxation characteristics of forests..." paper
+## Код к статье "Использование свёрточных нейронных сетей для геопространственного моделирования породной структуры и таксационных характеристик лесов..."
+This repository contains Jupyter Notebooks with Python code for "Use of convolutional neural networks for geospatial modelling of species structure and taxation characteristics of forests (case study of Khanty-Mansi Autonomous Okrug - Yugra)" paper, published in "Sovremennye Problemy Distantsionnogo Zondirovaniya Zemli iz Kosmosa" in 2023 (DOI: [10.1134/S1995425520020092](https://doi.org/10.21046/2070-7401-2023-20-2-75-93).
+
+В этом репозитории хранятся файлы с кодом на Python к статье "Использование свёрточных нейронных сетей для геопространственного моделирования породной структуры и таксационных характеристик лесов (на примере ХМАО - Югры)", опубликованной в журнале "Современные проблемы дистанционного зондирования Земли из Космоса" в 2023 году (DOI: [10.1134/S1995425520020092](https://doi.org/10.21046/2070-7401-2023-20-2-75-93).
